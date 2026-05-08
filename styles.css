@@ -217,6 +217,10 @@ h1 {
   display: none;
 }
 
+.print-header {
+  display: none;
+}
+
 .section {
   scroll-margin-top: 28px;
   margin-bottom: 42px;
@@ -463,6 +467,34 @@ li::before {
   .toast,
   .button {
     display: none !important;
+  }
+
+  .print-header {
+    display: block;
+    margin-bottom: 18px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #cfd6cf;
+  }
+
+  .print-header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+
+  .print-header p {
+    margin-top: 4px;
+    color: #313b34;
+    font-size: 12px;
+  }
+
+  .print-contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 14px;
+    margin-top: 8px;
+    color: #313b34;
+    font-size: 11px;
+    line-height: 1.45;
   }
 
   .section {
