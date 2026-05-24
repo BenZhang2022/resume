@@ -36,4 +36,9 @@ python -m http.server 5173
 ## 隐私提醒
 
 当前页面和源码都包含手机号、邮箱、LinkedIn 和完整工作经历。如果仓库设为公开，这些信息也会公开。
-"# resume" 
+"# resume"
+
+## 研究积累
+
+- `research/`：持续追加的业务研究与 AI 产品观察入口。
+- `research/tongxiang-report/`：同享智能体战略研究报告。

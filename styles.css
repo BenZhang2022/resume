@@ -507,3 +507,35 @@ li::before {
     break-inside: avoid;
   }
 }
+
+.research-card .research-meta {
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.link-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 7px 12px;
+  border: 1px solid var(--line);
+  border-radius: 5px;
+  color: var(--accent-dark);
+  background: var(--paper);
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.text-link:hover {
+  border-color: var(--accent);
+  background: #f2fbf7;
+}
