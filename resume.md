@@ -6,7 +6,7 @@
 
 ## 个人简介
 
-具备约 19 年 IBM CIO、企业 IT、CRM 数字化转型和 Sales Enablement 经验，长期连接业务部门、IT 平台团队和内部用户，熟悉企业内部系统 adoption、产品需求收集、用户反馈、知识库建设、UAT 测试、上线推广和培训材料沉淀。现任联想 PRC SMB DT 产品经理，聚焦 Bidding 智能价审与渠道商机智能交付，完成 AB Test 数据诊断、审批规则拆解、SMB Guidance 规划、AI 辅助审批及 RR / Bidding 分流方案设计。近年亦持续开展 Watson Assistant、Seismic 知识库问答、Dify / Ollama 发票抽取 POC 和 Excel/WPS VBA 流程自动化等实践。
+具备约 19 年 IBM CIO、企业 IT、CRM 数字化转型和 Sales Enablement 经验，长期连接业务部门、IT 平台团队和内部用户，熟悉企业内部系统 adoption、产品需求收集、用户反馈、知识库建设、UAT 测试、上线推广和培训材料沉淀。现以外部顾问身份担任联想中国区 SMB DT 项目产品经理，聚焦 Bidding 智能价审与渠道商机智能交付，完成 AB Test 数据诊断、审批规则拆解、SMB Guidance 规划、AI 辅助审批及 RR / Bidding 分流方案设计。近年亦持续开展 Watson Assistant、Seismic 知识库问答、Dify / Ollama 发票抽取 POC 和 Excel/WPS VBA 流程自动化等实践。
 
 更偏向“懂业务场景、懂内部流程、能把 AI / Agent / 自动化工具落到真实工作流”的 AI 产品落地型角色，擅长将业务痛点拆解为流程、数据、需求、测试场景、演示材料和可验证的工具方案。
 
@@ -23,7 +23,7 @@
 
 ## 工作经历
 
-### 联想（Lenovo）｜PRC SMB DT 产品经理
+### 联想中国区 SMB DT 项目｜产品经理（外部顾问）
 
 2026.05 至今
 
