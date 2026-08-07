@@ -365,14 +365,29 @@ li::before {
   background: var(--accent);
 }
 
-.education-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
+.education-compact {
+  padding: 8px 18px;
 }
 
-.education-grid h3 {
-  margin-top: 5px;
+.education-item {
+  display: grid;
+  grid-template-columns: 96px minmax(0, 1fr);
+  align-items: baseline;
+  gap: 16px;
+  padding: 9px 0;
+}
+
+.education-item + .education-item {
+  border-top: 1px solid var(--line);
+}
+
+.education-item h3 {
+  font-size: 15px;
+}
+
+.education-item p {
+  margin-top: 2px;
+  font-size: 13px;
 }
 
 .footer {
@@ -445,9 +460,13 @@ li::before {
     font-size: 14px;
   }
 
-  .skill-grid,
-  .education-grid {
+  .skill-grid {
     grid-template-columns: 1fr;
+  }
+
+  .education-item {
+    grid-template-columns: 1fr;
+    gap: 2px;
   }
 
   .job-title,

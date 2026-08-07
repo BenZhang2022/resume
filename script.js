@@ -62,19 +62,6 @@
     }
   });
 
-  var copyFitButton = document.getElementById("copyFitButton");
-  var fitList = document.getElementById("fitList");
-  if (copyFitButton && fitList) {
-    copyFitButton.addEventListener("click", function () {
-      var text = Array.prototype.map
-        .call(fitList.querySelectorAll("li"), function (item) {
-          return item.textContent.trim();
-        })
-        .join("\n");
-      copyText(text, "匹配摘要");
-    });
-  }
-
   var topButton = document.getElementById("topButton");
   if (topButton) {
     topButton.addEventListener("click", function () {

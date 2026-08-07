@@ -6,9 +6,11 @@
 
 ## 个人简介
 
-具备约 22 年企业 IT、软件与数字化转型经验，其中 19 年服务于 IBM CIO Business Transformation（BT）体系，长期连接业务部门、IT 平台团队与内部用户。围绕 CRM 与销售数字化主线，历任 Business Analyst、Business Design Consultant、Project Manager、Sales Enablement 等角色，参与多代平台演进、业务流程转型、产品需求与项目交付、用户推广及知识体系建设。
+具备约 22 年企业 IT、软件与数字化转型经验，其中 19 年服务于 IBM CIO Business Transformation（BT）体系，长期作为业务部门、IT 平台团队与内部用户之间的桥梁，理解大型企业 IT 如何连接业务战略、流程、平台、数据与用户采用。
 
-现以外部顾问身份担任联想中国区 SMB DT 项目产品经理，负责智能价审和渠道商机智能交付等企业 AI 场景。兼具产品管理、项目推进、Innovation / Design Thinking、数据分析、变革推广与早期应用开发经验，能够从 CIO 视角把业务目标拆解为流程、数据、系统需求和可持续运营机制，推动方案从问题定义、PoC、测试验证走向业务采用。
+以 CRM 和销售数字化为长期主轴，历任 Business Analyst、Business Design Consultant、Project Manager、Sales Enablement 等角色，参与三代 CRM 平台演进，并在中国区及 APAC 支持规模化用户群体。具备从需求调研、流程设计、路线图和 PoC，到 UAT、上线、培训、运营及反馈迭代的端到端交付能力。
+
+现以外部顾问身份担任联想中国区 SMB DT 项目产品经理，负责智能价审和渠道商机智能交付等企业 AI 场景；同时具备 Watson Assistant、知识库问答、票据抽取与流程自动化实践。拥有计算机教育和应用开发基础，能够与架构、开发、数据和供应商团队协作，从业务价值、数据质量和治理边界评估方案，并通过自动化与轻量原型加速验证。
 
 ## 核心能力
 
@@ -102,11 +104,3 @@
 
 大连理工大学｜计算机科学与技术｜第二学士学位｜2002 - 2004  
 内蒙古财经大学｜国际贸易｜学士学位｜1998 - 2002
-
-## CIO / 信息技术岗位价值摘要
-
-- 19 年 IBM CIO Business Transformation 经历，理解大型企业 IT 如何连接业务战略、流程、平台、数据与用户采用。
-- 以 CRM 和销售数字化为长期主轴，兼具 Business Analyst、Product Manager、Project Manager、Sales Enablement 与 Innovation 经验。
-- 具备从需求调研、流程设计、路线图和 PoC，到 UAT、上线、培训、运营及反馈迭代的端到端交付能力。
-- 具备智能价审、智能交付、Watson Assistant、知识库与票据抽取等企业 AI 落地实践，能够从业务价值、数据质量和治理边界评估方案。
-- 具备计算机教育和应用开发基础，能够与架构、开发、数据和供应商团队有效协作，并通过自动化与轻量原型加速验证。
