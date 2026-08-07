@@ -325,6 +325,14 @@ h1 {
   gap: 18px;
 }
 
+.job-title > div {
+  min-width: 0;
+}
+
+.job-title time {
+  flex: 0 0 auto;
+}
+
 .job-title p,
 .card time {
   color: var(--muted);
