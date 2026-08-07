@@ -12,13 +12,12 @@
 
 ## 核心能力
 
-- CIO 业务与数字化转型：具备大型企业 CIO / BT 背景，能够连接业务战略、流程、数据、应用平台与用户采用，推动信息技术转化为业务能力。
-- CRM 与销售数字化：长期参与 CRM、商机管理、销售流程和 Sales Enablement 建设，覆盖需求分析、平台迁移、看板设计、知识管理和推广运营。
-- 产品与项目管理：兼具 Product Manager、Project Manager 和 Business Analyst 视角，熟悉路线图、需求拆解、跨团队协同、UAT、上线和持续迭代。
-- 变革管理与用户赋能：面向中国区及 APAC 内部用户开展 adoption、培训、知识库和反馈闭环，降低平台切换阻力并促进业务采用。
-- Innovation 与 Design Thinking：运用用户研究、问题定义、共创、原型和敏捷验证方法，将模糊业务问题转化为可实施方案。
-- 企业 AI 与数据驱动：具备智能价审、智能交付、Watson Assistant、知识库问答和票据抽取 PoC 经验，重视效果指标、风险边界和结果回流。
-- 流程自动化与技术理解：具备应用开发基础，能够理解数据结构、系统集成和实现约束；通过 VBA、OCR、JSON 和静态页面完成自动化与原型验证。
+- CIO 业务与数字化转型：具备大型企业 CIO / BT 背景，能够对齐业务战略、流程、数据与应用平台，将信息技术转化为可持续运营的业务能力。
+- CRM 与 Sales Enablement：长期参与 CRM、商机管理和销售流程建设，覆盖平台演进、看板设计、知识管理及销售用户赋能。
+- 产品、项目与创新管理：兼具 Product Manager、Project Manager 和 Business Analyst 视角，运用 Design Thinking 与敏捷方法推进路线图、需求、原型、UAT、上线和迭代。
+- 变革管理与用户采用：面向中国区及 APAC 内部用户开展沟通、培训、知识库、推广和反馈闭环，降低平台切换阻力并促进 adoption。
+- 企业 AI 与数据应用：具备智能价审、智能交付、Watson Assistant、知识库问答和票据抽取 PoC 经验，能够基于业务指标评估价值、风险边界与优化方向。
+- 技术基础与流程自动化：具备应用开发基础，理解数据结构、系统集成与实现约束；通过 VBA、OCR、JSON 和轻量原型验证方案并提升效率。
 - 工具与平台：Watson Assistant、Seismic、Salesforce ISC、Atlas、SalesConnect、Hermes、OpenClaw、Dify、Ollama、扣子、AnyGen、IMA、GitHub Pages、Excel/WPS VBA、PPT、Word、Markdown。
 
 ## 工作经历
