@@ -1,12 +1,12 @@
 # 张建斌
 
-求职方向：信息技术（CIO） / 业务与数字化转型 / CRM 与企业 AI 落地
+求职方向：企业信息化与数字化转型 / IT Business Partner / CRM 与企业 AI 应用
 
 北京｜手机：18601163332｜邮箱：barnabas@126.com｜LinkedIn：https://www.linkedin.com/in/jian-bin-zhang-980275129/
 
 ## 个人简介
 
-具备约 22 年企业 IT、软件与数字化转型经验，其中 19 年服务于 IBM CIO Business Transformation（BT）体系，长期作为业务部门、IT 平台团队与内部用户之间的桥梁，理解大型企业 IT 如何连接业务战略、流程、平台、数据与用户采用。
+具备约 22 年企业 IT、软件与数字化转型经验，其中 19 年服务于 IBM 企业信息技术部门（CIO Organization）的 Business Transformation 团队，长期作为业务部门、IT 平台团队与内部用户之间的桥梁，理解大型企业 IT 如何连接业务战略、流程、平台、数据与用户采用。
 
 以 CRM 和销售数字化为长期主轴，历任 Business Analyst、Business Design Consultant、Project Manager、Sales Enablement 等角色，参与三代 CRM 平台演进，并在中国区及 APAC 支持规模化用户群体。具备从需求调研、流程设计、路线图和 PoC，到 UAT、上线、培训、运营及反馈迭代的端到端交付能力。
 
@@ -15,12 +15,12 @@
 ## 核心能力
 
 - 企业 AI 与数据应用：具备智能价审、智能交付、Watson Assistant、知识库问答和票据抽取 PoC 经验，能够基于业务指标评估价值、风险边界与优化方向。
-- CIO 业务与数字化转型：具备大型企业 CIO / BT 背景，能够对齐业务战略、流程、数据与应用平台，将信息技术转化为可持续运营的业务能力。
+- 企业信息化与业务转型：具备大型企业 Business Transformation 背景，能够对齐业务战略、流程、数据与应用平台，将信息技术转化为可持续运营的业务能力。
 - CRM 与 Sales Enablement：长期参与 CRM、商机管理和销售流程建设，覆盖平台演进、看板设计、知识管理及销售用户赋能。
 - 产品、项目与创新管理：兼具 Product Manager、Project Manager 和 Business Analyst 视角，运用 Design Thinking 与敏捷方法推进路线图、需求、原型、UAT、上线和迭代。
 - 变革管理与用户采用：面向中国区及 APAC 内部用户开展沟通、培训、知识库、推广和反馈闭环，降低平台切换阻力并促进 adoption。
 - 技术基础与流程自动化：具备应用开发基础，理解数据结构、系统集成与实现约束；通过 VBA、OCR、JSON 和轻量原型验证方案并提升效率。
-- 工具与平台：Watson Assistant、Seismic、Salesforce ISC、Atlas、SalesConnect、Hermes、OpenClaw、Dify、Ollama、扣子、AnyGen、IMA、GitHub Pages、Excel/WPS VBA、PPT、Word、Markdown。
+- 工具与平台：Salesforce ISC、SalesConnect、Atlas、Seismic、Watson Assistant、Dify、Ollama、Excel/WPS VBA、OCR / JSON、GitHub / Markdown。
 
 ## 工作经历
 
@@ -28,33 +28,33 @@
 
 2026.05 至今
 
-- 主导智能价审 AB Test 复盘框架与数据分析，覆盖 149 个立项、180 条产品行和 46 个转订单；识别 67.22% 的产品行推荐价与审批价偏差在 ±5% 内，并进一步定位低价放行、产品组差异、毛利口径与三档报价区分度等关键问题。
-- 拆解 25 条审批配置规则、30 个审批账号及 2/3/4/5 级审批链路，区分流程/合规检查与价格决策角色；形成“模型推荐 + SMB Guidance + 流程提效 + AI 辅助审批”的 Q2 路线图，并推动 5 级向 4 级流程优化方向对齐。
-- 设计角色化审批邮件与价审工作台 PoC，将推荐价、GP 影响、历史样本、风险提示和审批依据聚合为可解释的决策界面；同时梳理产品、库存、生产、价格、政策五类判断规则，形成 RR / Bidding / 不适合当前路径的智能交付方案。
-- 作为产品经理协调 SMB 业务、战略、IT、数据与模型团队，将业务规则、数据口径、系统流程和用户体验纳入统一项目计划，持续通过评审、周会和行动项台账推动决策闭环。
+- 作为产品经理协调 SMB 业务、战略、IT、数据与模型团队，将业务规则、数据口径、系统流程和用户体验纳入统一项目计划，通过评审、周会和行动项台账推动决策闭环。
+- 建立智能价格审批 AB Test 复盘框架，分析百余个立项、产品明细及转订单数据；识别多数样本的 AI 推荐价与最终审批价位于合理偏差区间，并定位低价放行、产品差异、毛利口径和多策略报价区分度等问题。
+- 拆解多层级审批配置、角色与业务规则，区分合规检查和价格决策职责；形成“模型推荐 + 定价业务规则 + 流程提效 + AI 辅助审批”的产品路线图，推动审批流程简化方向对齐。
+- 设计角色化审批通知与决策工作台 PoC，聚合推荐价、毛利影响、历史样本、风险提示和审批依据；将渠道商机判断经验转化为产品、库存、生产、价格和政策五类可解释规则及三类交付路径。
 
 ### 北京宏远博宇科技有限公司｜技术负责人
 
 2025.05 - 2026.04
 
-- 近一年深度试用并应用 Hermes、OpenClaw、Dify、Ollama、扣子、AnyGen、IMA 等 AI / Agent / 工作流工具，结合实际业务场景完成文档生成、资料整理、方案辅助、票据识别、流程自动化和内部效率提升探索。
+- 评估并应用 Dify、Ollama、Agent 与工作流工具，围绕文档生成、知识整理、票据识别、方案辅助和流程自动化开展企业场景验证。
 - 基于 Dify、Ollama 和本地视觉模型完成发票信息抽取 POC，从发票 PDF / 图片中抽取购买方、销售方、发票号码、日期、金额等字段并输出 JSON；测试百条级样本，整票准确率约 90%-95%，并基于准确率和处理效率评估其生产可用性边界。
 - 基于 Excel/WPS VBA 搭建并维护业务数据自动化流程，持续运行约一年，处理约 20 个在运行合同及千条级采购、财务数据，将每周数据整理工作量从约 3 天压缩至约 0.5 天，支持每周 2-3 次经营分析和会议准备。
 - 支持公司 GitHub Pages 静态网站维护，参与企业方案内容展示、页面更新和基础前端内容调整，使用 GitHub / Markdown / 静态页面方式沉淀和展示业务内容。
 - 支持工业客户信息化与自动化设备项目，负责客户需求理解、技术参数确认、供应商沟通、方案整理和交付协调，推动需求、方案、报价与交付信息闭环。
 
-### IBM CIO Business Transformation｜Business Analyst / Business Design Consultant / Project Manager / Sales Enablement
+### IBM｜CIO Organization（企业信息技术部门）
+
+Business Transformation｜CRM & Sales Enablement
 
 2006.10 - 2025.04
 
-- 在 IBM CIO Business Transformation 体系工作 19 年，长期作为业务部门、CIO IT 平台团队和中国区 / APAC 用户之间的桥梁，围绕销售数字化、CRM、Sales Enablement 和内部创新推动业务转型。
+- 在 IBM 企业信息技术部门的 Business Transformation 团队工作 19 年，长期作为业务部门、IT 平台团队和中国区 / APAC 用户之间的桥梁，围绕销售数字化、CRM、Sales Enablement 和内部创新推动业务转型。
 - 作为大中华区 CRM 相关负责人之一，参与 SugarCRM / SalesConnect、Atlas 云平台和 Salesforce ISC 三代平台演进，承担业务需求、流程对齐、项目协同、UAT、上线推广和持续改进。
 - 支持大中华区 CRM 用户群体从约 6,000 人逐步过渡至约 3,000 人、1,000 人规模的不同平台阶段；2022 年后进入亚太团队，支持约 10,000 名相关使用用户的 CRM / Sales Enablement 场景。
-- 在 Business Analyst、Business Design Consultant、Project Manager 与 Sales Enablement 等角色间协作，兼顾产品需求、项目计划、利益相关方沟通、测试验收、变革推广与用户运营。
+- 历任 Business Analyst、Business Design Consultant，并承担项目管理与 Sales Enablement 职责，覆盖需求、项目计划、利益相关方沟通、测试验收、变革推广和用户运营。
 - 支持面向约 6,000 名 APAC CRM 销售及销售管理用户的 Watson Assistant chatbot 于 2024 年末逐步上线，负责知识库准备、上线前测试和上线后推广，并支持 Slack 集成功能推广。
-- 建立和维护 CRM 中文用户知识资源，覆盖系统功能迭代、常见问题、操作说明和流程变化，支持中文销售用户理解 CRM 平台变化和日常使用。
-- 设计并定义大中华区 POE 销售机会跟踪看板并推动上线，服务 China 二线销售经理、一线销售经理及 operation 团队，支持销售商机状态跟踪和销售管理。
-- 在 IBM 较早实践 Design Thinking 与敏捷方法的团队中开展 Innovation 工作，将用户反馈、问题定义、共创、原型验证和跨团队评审应用于 CRM / Sales Enablement 产品与流程优化。
+- 建设 CRM 中文知识资源、培训内容和销售机会跟踪看板，服务销售经理及运营团队；运用 Design Thinking 与敏捷方法开展共创、原型验证和持续优化。
 
 ### 中科软科技股份有限公司｜售前工程师 / Application Developer
 
@@ -64,21 +64,19 @@
 
 ## 重点项目
 
-### IBM CRM 平台演进｜CIO 业务转型与 Sales Enablement
+### IBM CRM 平台演进｜企业信息化业务转型与 Sales Enablement
 
 - 背景：IBM 大中华区 CRM 从 SugarCRM / SalesConnect 演进至 Atlas 云平台和 Salesforce ISC，涉及销售流程、数据与内部用户工作方式的持续变化。
-- 角色：作为 CIO BT 与业务之间的桥梁，综合承担 Business Analyst、Project Manager、Business Design 和 Sales Enablement 职责，推进需求、流程、测试、上线、培训和用户反馈闭环。
+- 角色：作为业务与企业信息技术团队之间的桥梁，综合承担 Business Analysis、项目管理、Business Design 和 Sales Enablement 职责，推进需求、流程、测试、上线、培训和用户反馈闭环。
 - 规模：覆盖中国区约 6,000 人至不同阶段的用户迁移，后续在 APAC 团队支持约 10,000 名相关用户。
 - 价值：不仅完成系统切换，还持续建设中文知识资源、培训内容、商机看板和 adoption 机制，帮助平台能力真正进入销售管理工作流。
 
-### 联想 SMB DT：智能价审与渠道智能交付｜产品管理
+### 联想 SMB DT：智能价格审批与渠道交付｜产品管理
 
-- 背景：CPQ 智能化体系下的 SMB 价格审批场景，目标是利用历史报价、审批、成交数据和业务规则，为审批人提供可信、可解释的价格建议。
-- 工作：建立 AB Test 指标框架，联动分析推荐价偏差、三档报价、转订单、GP、Rev 与审批链路；拆解 25 条规则和 2/3/4/5 级角色差异，访谈产品组并梳理 GP 水位线、历史样本及特殊低价放行条件。
-- 结果：在 149 个立项、180 条产品行中识别 121 条（67.22%）推荐价偏差位于 ±5%；三套报价方案在该区间命中 113-115 条，高赢率方案在 ±2% 区间命中 63 条。进一步识别高转化但低毛利样本、84 产品组偏差和毛利口径差异等优化重点。
-- 方案：形成“流程 5 级向 4 级优化 + SMB Guidance + 模型校准 + 角色化邮件 + 价审工作台”的 Q2 产品路线图，为业务、IT、模型与数据团队提供统一的推进框架。
-
-- 延伸方案：将 IS 的商机判断经验拆解为产品、库存、生产、价格、政策五类规则，设计 RR / Bidding / 不适合当前路径三类输出及结果回流机制，衔接智能价审与合作伙伴撮合。
+- 背景：面向 SMB 价格审批场景，利用历史报价、审批、成交数据和业务规则，为审批人员提供可信、可解释的 AI 价格建议。
+- 工作：建立 AB Test 指标框架，联动分析推荐价偏差、转订单、毛利、收入与审批链路；拆解审批规则和角色差异，梳理业务定价规则、历史样本及特殊低价放行条件。
+- 结果：通过百余个真实立项及产品明细识别模型有效区间，并定位高转化低毛利、产品差异和财务口径不一致等优化重点。
+- 方案：形成“流程简化 + 业务定价规则 + 模型校准 + 角色化通知 + 决策工作台”的产品路线图，并将渠道商机经验转化为可解释规则、三类交付路径及结果回流机制。
 
 ### Watson Assistant + Seismic 知识库 Chatbot
 
